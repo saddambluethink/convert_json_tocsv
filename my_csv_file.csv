@@ -1,0 +1,3 @@
+,profile_set
+0,"{'doc_type': 'PROFILE', 'key': '123', 'mem_list': {'mem_num': '10001', 'current_flag': 'Y', 'mem_flag': [], 'child_mem_list': {'child_mem_num': []}}, 'first_name': 'Robert', 'middle_name': [], 'last_name': 'John', 'created_datetime': '2018-01-06T12:52:09'}"
+1,"{'doc_type': 'PROFILE', 'key': '456', 'mem_list': {'mem_num': '10002', 'current_flag': 'Y', 'mem_flag': 'Y', 'child_mem_list': {'child_mem_num': []}}, 'first_name': 'Lily', 'middle_name': [], 'last_name': 'Hubert', 'created_datetime': '2018-01-07T11:32:07'}"
